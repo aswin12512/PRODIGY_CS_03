@@ -23,7 +23,7 @@ A simple Python tool that assesses the strength of a password based on various c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Adhith708/password-strength-checker.git
+   git clone https://github.com/aswin12512/password-strength-checker.git
    cd password-strength-checker
 
 ## Run The Application
