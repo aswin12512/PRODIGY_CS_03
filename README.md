@@ -32,4 +32,5 @@ A simple Python tool that assesses the strength of a password based on various c
 
  ## Example
 
-[Screenshot (77)](https://github.com/user-attachments/assets/b4fff175-89fe-4d2e-b9ca-30721fecf3ef)
+![Screenshot 2025-02-22 112931](https://github.com/user-attachments/assets/ca551ee8-5f84-4190-b406-f1a2b30155dd)
+
